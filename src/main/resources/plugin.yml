@@ -1,0 +1,10 @@
+name: RelayBuild
+version: 1.0
+main: me.miyeoukman.relaybuild.RelayBuild
+api-version: 1.21
+authors: [ Miyeoukman ]
+
+commands:
+  relay:
+    description: 릴레이 건축 메인 명령어
+    usage: /relay <setA|setB|start> [주제]
